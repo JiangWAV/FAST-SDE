@@ -35,7 +35,7 @@ python test_real.py
 The source code and dataset are released under MIT license.
 
 ## Citation
-Please, cite the paper if you use the microphone arrays calibration codes or data for your research.
+Please, cite the paper if you use the codes or data for your research.
 
 ```bibtex
 @article{wang2026fast,
